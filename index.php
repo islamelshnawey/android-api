@@ -1,10 +1,13 @@
 Visit the below endpoints<br/>
 
 Login:<br/>
-http://YOUR_MACHINE_IP/android_login_api/login.php<br/><br/>
+http://YOUR_MACHINE_IP/android-api/login.php<br/><br/>
 
 Registration:<br/>
-http://YOUR_MACHINE_IP/android_login_api/register.php<br/><br/>
+http://YOUR_MACHINE_IP/android-api/register.php<br/><br/>
 
-Tutorial link:<br/>
-<a href="http://www.androidhive.info/2012/01/android-login-and-registration-with-php-mysql-and-sqlite/">http://www.androidhive.info/2012/01/android-login-and-registration-with-php-mysql-and-sqlite/</a>
+Update:<br/>
+http://YOUR_MACHINE_IP/android-api/update.php<br/><br/>
+
+link:<br/>
+<a href="http://helloworldstudios.net/islam">Hello World Studios</a>
