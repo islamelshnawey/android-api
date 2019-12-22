@@ -13,3 +13,10 @@ create table users(
    created_at datetime,
    updated_at datetime null
 ); /** Creating Users Table **/
+
+create table categories(
+   id int(11) primary key auto_increment,
+   name_ar varchar(23) not null ,
+   name_en varchar(50) not null,
+   image varchar(100) not null
+);
